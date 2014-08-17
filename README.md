@@ -14,5 +14,5 @@ This repo is not maintained!
 - GA (Genetic Algorithms)
 - SS (Scatter Search)
 
-Best solutions where found using GTS and ILS.
+Best solutions were found using GTS and ILS.
 
